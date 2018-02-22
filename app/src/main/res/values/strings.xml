@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">videoplayer</string>
+    <string name="current_time">00:00:00</string>
+    <string name="line">/</string>
+</resources>
